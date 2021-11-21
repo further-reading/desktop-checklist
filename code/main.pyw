@@ -1,4 +1,6 @@
+import pdb
 from PyQt5.QtWidgets import QVBoxLayout, QWidget, QCheckBox, QApplication, QMainWindow
+import os
 import sys
 
 
@@ -20,7 +22,7 @@ class Main(QMainWindow):
         self.checklist = QWidget(parent=self)
         layout = QVBoxLayout()
 
-        with open("settings.txt") as f:
+        with open(os.path.join(sys.path[0], "settings.txt")) as f:
             for line in f.readlines():
                 button = QCheckBox()
                 button.setText(line.strip())
