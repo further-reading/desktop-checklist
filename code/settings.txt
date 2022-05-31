@@ -1,22 +1,4 @@
-Get Water
-Turn on Blue Light
-Turn on Red Light
-Turn on Spot light
-Start Spotify
-Start Snip
-Start OBS
-Start Lioranboard
-Connect Lioranboard to OBS and twitch
-Check Camera
-Check Sounds
-Check Scenes
-Set to Starting Soon
-Start Game
-Load Save (if applicable)
-Update Stream Info
-Raise Spotify Volume
-Start Stream
-Start Chatty
-Start Monitor Laptop
-Open stream manager page
-Post announcement
+Item 1
+Item 2
+Item 3
+And so on
